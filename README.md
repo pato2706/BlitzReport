@@ -24,7 +24,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":21,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-full is-style-rounded"><img src="[http://localhost/wordpress/wp-content/uploads/2025/08/cnne-1152625-220210112736-01b-sofi-infinity-screen-exlarge-169-2.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcnnespanol.cnn.com%2F2022%2F02%2F11%2Fpantalla-super-bowl-lvi-estadio-trax&psig=AOvVaw3rtaaMcksiVfL8c5kwhEyG&ust=1755355489761000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCY5LT6jI8DFQAAAAAdAAAAABAE)" alt="" class="wp-image-21"/></figure>
+<figure class="wp-block-image alignwide size-full is-style-rounded"><img src="localhost/wordpress/wp-content/uploads/2025/08/cnne-1152625-220210112736-01b-sofi-infinity-screen-exlarge-169-2.jpg" alt="" class="wp-image-21"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
